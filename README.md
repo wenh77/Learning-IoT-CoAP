@@ -1,7 +1,7 @@
 Learning-IoT-CoAP
 =================
 
-Source code for the CoAP chapter of the book "Learning Internet of Things".
+Source code for the CoAP chapter of the book [Learning Internet of Things](https://www.packtpub.com/application-development/learning-internet-things).
 
 This chapter covers the basics of the CoAP protocol. It also shows how to use CoAP in the **actuator**, **sensor** and **controller** projects, each running on separate Raspberry Pis.
 
